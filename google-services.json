@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "18296846581",
+    "firebase_url": "https://rangtalk-1e9cb.firebaseio.com",
+    "project_id": "rangtalk-1e9cb",
+    "storage_bucket": "rangtalk-1e9cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18296846581:android:4e4529255239c6a5",
+        "android_client_info": {
+          "package_name": "com.rangtalk.hj.rangtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18296846581-56o7urf349p5vu7musb8bl58q4mbsumm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rangtalk.hj.rangtalk",
+            "certificate_hash": "ee60b066d0da0dcedfbcc23e88a85a02b6b26fbc"
+          }
+        },
+        {
+          "client_id": "18296846581-m869mvi9nthp82dldfutr5285tjlf1i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5mlvYaudJEIJD-v0mKK_-5tMpw9jauxU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18296846581-m869mvi9nthp82dldfutr5285tjlf1i2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
